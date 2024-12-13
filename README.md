@@ -2,12 +2,12 @@
 
 |FACULDADE|DEVSFREE ACADEMY|
 |----------|----------------|
-|ABC|Princípios Fundamentais da OOP|
-|ABC| Design de Classes e Objetos|
-|ABC| Design de Software e Padrões de Projeto|
-|ABC|Refatoração e Manutenção de Código|
-|ABC|Integração com Bancos de Dados|
-|ABC|Programação e Práticas Ágeis|
+|Classes e Objetos|Princípios Fundamentais da OOP|
+|Métodos Getter, Setter e Construtor| Design de Classes e Objetos|
+|Abstração| Design de Software e Padrões de Projeto|
+|Encapsulamento|Refatoração e Manutenção de Código|
+|Herança|Integração com Bancos de Dados|
+|Polimorfismo|Programação e Práticas Ágeis|
 |ABC|Design Orientado a Objetos|
 |ABC|Interação com APIs e Serviços|
 |ABC|Gerenciamento de Dependências e Build|
